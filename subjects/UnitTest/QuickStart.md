@@ -3,7 +3,7 @@ https://github.com/pytest-dev/pytest
 * test function's name start with "test_"
 * test class's name start with "Test"
 * test method's name start with "test_"
-* hook method in test class："setup_class"、"teardown_class"、"setup_method"、"teardown_method"
+* hook in test class："setup_class"、"teardown_class"、"setup_method"、"teardown_method"
 
 # mock
 https://docs.python.org/3/library/unittest.mock.html
